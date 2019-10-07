@@ -1,0 +1,4 @@
+
+# 自动装配类配置
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.yuhb.customerspringbootstarter.autoconfigure.CustomerAutoConfiguration
